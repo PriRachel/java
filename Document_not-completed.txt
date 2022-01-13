@@ -1,0 +1,6 @@
+リポジトリ
+
+■ファイル構成
+Dir：src --- rpglikegamez.java
+          |-
+          |-
