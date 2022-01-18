@@ -2,5 +2,11 @@
 
 ■ファイル構成
 Dir：src --- rpglikegamez.java
+          |- karennda.java
           |-
-          |-
+          
+
+■ファイル内容
+./src
+  ・rpglikegamez.java  ：未完成  独学も兼ねて作成中。
+  ・karennda.java      ：完成？  思うままに好きに作ったプログラム。
